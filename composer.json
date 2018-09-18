@@ -45,8 +45,5 @@
 		"mvccore/ext-view-helper-truncate": "^4.3.1",
 		"mvccore/ext-view-helper-writebyjs": "^4.3.1"
 	},
-	"autoload": {
-		"classmap": ["src/"]
-	},
 	"minimum-stability": "stable"
 }
