@@ -20,6 +20,7 @@ composer require mvccore/ext-view-helper-all
 - `mvccore/ext-view-helper-linebreaks`
 - `mvccore/ext-view-helper-truncate`
 - `mvccore/ext-view-helper-writebyjs`
+
 Dependent packages:
 - `mvccore/mvccore`
 - `mvccore/ext-view-helper`
