@@ -1,6 +1,6 @@
 {
 	"name": "mvccore/ext-view-helper-all",
-	"type": "library",
+	"type": "metapackage",
 	"description": "MvcCore - Extension - View - Helper - All - all MvcCore View Helper extensins together.",
 	"keywords": [
 		"mvc", 
