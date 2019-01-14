@@ -34,16 +34,16 @@
 		"homepage": "https://github.com/tomFlidr"
 	}],
 	"require": {
-		"php": ">=5.3.0",
-		"mvccore/ext-view-helper-assets": "^4.3.1",
-		"mvccore/ext-view-helper-dataurl": "^4.3.1",
-		"mvccore/ext-view-helper-formatdate": "^4.3.1",
-		"mvccore/ext-view-helper-formatmoney": "^4.3.1",
-		"mvccore/ext-view-helper-formatnumber": "^4.3.1",
-		"mvccore/ext-view-helper-internationalized": "^4.3.1",
-		"mvccore/ext-view-helper-linebreaks": "^4.3.1",
-		"mvccore/ext-view-helper-truncate": "^4.3.1",
-		"mvccore/ext-view-helper-writebyjs": "^4.3.1"
+		"php": ">=5.4.0",
+		"mvccore/ext-view-helper-assets": "dev-master",
+		"mvccore/ext-view-helper-dataurl": "dev-master",
+		"mvccore/ext-view-helper-formatdate": "dev-master",
+		"mvccore/ext-view-helper-formatmoney": "dev-master",
+		"mvccore/ext-view-helper-formatnumber": "dev-master",
+		"mvccore/ext-view-helper-internationalized": "dev-master",
+		"mvccore/ext-view-helper-linebreaks": "dev-master",
+		"mvccore/ext-view-helper-truncate": "dev-master",
+		"mvccore/ext-view-helper-writebyjs": "dev-master"
 	},
-	"minimum-stability": "stable"
+	"minimum-stability": "dev"
 }
