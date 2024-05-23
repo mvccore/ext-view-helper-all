@@ -35,15 +35,15 @@
 	}],
 	"require": {
 		"php": ">=5.4.0",
-		"mvccore/ext-view-helper-assets": "^5.0",
-		"mvccore/ext-view-helper-dataurl": "^5.0",
-		"mvccore/ext-view-helper-formatdate": "^5.0",
-		"mvccore/ext-view-helper-formatmoney": "^5.0",
-		"mvccore/ext-view-helper-formatnumber": "^5.0",
-		"mvccore/ext-view-helper-internationalized": "^5.0",
-		"mvccore/ext-view-helper-linebreaks": "^5.0",
-		"mvccore/ext-view-helper-truncate": "^5.0",
-		"mvccore/ext-view-helper-writebyjs": "^5.0"
+		"mvccore/ext-view-helper-assets": "^5.2",
+		"mvccore/ext-view-helper-dataurl": "^5.2",
+		"mvccore/ext-view-helper-formatdate": "^5.2",
+		"mvccore/ext-view-helper-formatmoney": "^5.2",
+		"mvccore/ext-view-helper-formatnumber": "^5.2",
+		"mvccore/ext-view-helper-internationalized": "^5.2",
+		"mvccore/ext-view-helper-linebreaks": "^5.2",
+		"mvccore/ext-view-helper-truncate": "^5.2",
+		"mvccore/ext-view-helper-writebyjs": "^5.2"
 	},
 	"minimum-stability": "dev"
 }
